@@ -1,4 +1,4 @@
-# eKrishiHub (Monorepo)
+# eKrishiHub
 # 🌱 eKrishiHub
 
 ## Structure
